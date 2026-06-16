@@ -1,4 +1,4 @@
-# Yogyank Round 1 Technical Assessment
+# Yogyank Assessment
 
 ## Time
 
